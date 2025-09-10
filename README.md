@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a developer, I build high-quality web applications with a strong focus on<br>detail and performance. I enjoy working on everything from clean, responsive<br>interfaces and smooth animations to the underlying logic that makes an app<br>fast and reliable. Whether it's optimizing rendering, improving data flow, or<br>designing efficient algorithms for the backend, I care about writing clean,<br>maintainable code that scales well. My goal is always to translate ideas into<br>smooth, thoughtful experiences, without pulling any all nighters (;<br>
+I build web apps that look good, run fast, and don’t break when you click too hard. From slick animations to solid backend logic, I focus on clean, scalable code. My goal: smooth user experiences without sacrificing sleep (;<br>
 
 
 ## 🌐 Socials:
