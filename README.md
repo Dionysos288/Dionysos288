@@ -1,4 +1,4 @@
-I design and build things that makes people take a screenshot and ask claude to replicate it:baguettepepe:
+I design and build things that makes people take a screenshot and ask claude to replicate it
 
 
 
